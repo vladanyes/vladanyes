@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ##### You can find me on:
-<a href='https://stackoverflow.com/users/8302373/vlad-r' target='_blank'>StackOverflow</a> | 
-<a href='https://dev.to/ryabinin' target='_blank'>Dev.to</a>
+<a href='https://stackoverflow.com/users/8302373/vlad-r' target="_blank">StackOverflow</a> | 
+<a href='https://dev.to/ryabinin' target="_blank">Dev.to</a>
 
 
 <!--
