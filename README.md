@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src='ezgif.com-crop.gif' />
+<img src='ezgif-4-354a262ead.gif' />
 
 <!--
 **vladanyes/vladanyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
