@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+##### You can find me on:
+<a href='https://stackoverflow.com/users/8302373/vlad-r'>StackOverflow</a> | 
+<a href='https://dev.to/ryabinin'>Dev.to</a>
+
+
 <!--
 **vladanyes/vladanyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
